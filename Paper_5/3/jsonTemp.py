@@ -21,5 +21,5 @@ res = dict(nlist)
 
 for i in range(0,len(nlist)):
         print nlist[i][0],nlist[i][1]
-
+       
 print 'Dictionary: ',res
